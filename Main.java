@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 class Player {
     private String isim;
     
